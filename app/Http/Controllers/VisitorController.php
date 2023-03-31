@@ -13,7 +13,7 @@ use Illuminate\Http\Request;
 *             description="API que determina el número de pares de elementos de una matriz que tienen una diferencia igual a un valor ingresado y retorna el listado de tests realizados"
 * )
 *
-* @OA\Server(url="http://localhost:8000")
+* @OA\Server(url="https://api-cuantos-pares-production.up.railway.app/")
 */
 
 
