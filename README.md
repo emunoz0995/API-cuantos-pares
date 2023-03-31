@@ -21,3 +21,7 @@
 - Crear App_Key -> ejecutar php artisan key:generate
 - Ejecutar php artisan migrate
 - Ejecutar npm install
+
+## Despliegue
+- La API se encuentra desplegada en RAILWAY servicio free que permite montar y desplegar una BD y API en nube
+- Railway en la vercion free permite 500 horas de peticiones
